@@ -1,4 +1,4 @@
-import React from "react";
+import { image } from "./data/image.jpg";
 
 function About() {
   return (
@@ -9,3 +9,4 @@ function About() {
     </div>
   );
 }
+export default About;
